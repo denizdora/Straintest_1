@@ -58,4 +58,4 @@ This method is commonly used in aerospace, civil, and renewable energy applicati
 
 Deniz Dora Kabakçıoğlu  
 Electronics Engineering · Izmir Institute of Technology  
-Erasmus Research @ University of Mons
+Erasmus Student @ University of Mons
